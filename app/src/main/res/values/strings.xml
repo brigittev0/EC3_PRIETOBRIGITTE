@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EC3_PRIETOBRIGITTE</string>
+    <string name="tvnombre">Nombre de grupo</string>
+    <string name="tvcontra">Contraseña</string>
+    <string name="login">AUTENTICARSE</string>
+    <string name="titulo">ENCUENTRA A TU CAMINO AMIGOP MAS CERCANO</string>
+    <string name="trvdistrito">Ingrese su distrito</string>
+    <string name="tvfechaini">Fecha Inicio</string>
+    <string name="fechafijn">Fecha Fin</string>
+    <string name="btnbuscar">BUSCAR</string>
+    <string name="lista">LISTA</string>
+</resources>
